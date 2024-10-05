@@ -30,6 +30,22 @@ A simple, PyTorch-based implementation of a **GPT-style language model** trained
 Run the training script:
 ```bash
 python gpt.py
+```
+Text Generation 📝
+After training, generate text using:
+
+```bash
+Copy code
+python gpt.py --generate
+```
+
+Example Output 🌟
+```vbnet
+Copy code
+ROMEO:
+What light through yonder window breaks?
+It is the east, and Juliet is the sun.
+```
 
 ![image](https://github.com/user-attachments/assets/ac4ca37c-4f4a-4e51-80ed-137d2ed0013d)  
 
