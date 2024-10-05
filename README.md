@@ -35,13 +35,11 @@ Text Generation 📝
 After training, generate text using:
 
 ```bash
-Copy code
 python gpt.py --generate
 ```
 
 Example Output 🌟
 ```vbnet
-Copy code
 ROMEO:
 What light through yonder window breaks?
 It is the east, and Juliet is the sun.
