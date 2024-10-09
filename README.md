@@ -2,7 +2,7 @@
 
 # GPT Language Model 🚀
 
-A simple, PyTorch-based implementation of a **GPT-style language model** trained on character-level data. This project explores the basics of the Transformer architecture and generates text based on input context. train
+A simple, PyTorch-based implementation of a **GPT-style language model** trained on character-level data. This project explores the basics of the Transformer architecture and generates text based on input context. 
 
 ## Features ✨
 - Transformer architecture with multi-head self-attention.
