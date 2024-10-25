@@ -40,11 +40,9 @@ python gpt.py --generate
 ```
 
 Example Output 🌟
-```vbnet
 ROMEO:
 What light through yonder window breaks?
 It is the east, and Juliet is the sun.
-```
 
 ![image](https://github.com/user-attachments/assets/ac4ca37c-4f4a-4e51-80ed-137d2ed0013d)  
 
